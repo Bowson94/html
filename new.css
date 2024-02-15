@@ -44,6 +44,7 @@ p{
     width: 600px;
     height: 600px;
     font-size: 22px;
+    text-align: bottom;
     color: white;
     padding: 25px;
     box-sizing: border-box;
